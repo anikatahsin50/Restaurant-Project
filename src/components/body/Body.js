@@ -1,9 +1,11 @@
 import React from 'react';
 
 const Body = () => {
-    <div>
-
-    </div>
+    return(
+        <div>
+            
+        </div>
+        )
 }
 
 export default Body;
